@@ -27,9 +27,9 @@ global.autoBio = true
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
-global.bank = "Opay"
-global.bankname = "BLUE"
-global.accnumber = "7041039367"
+global.bank = "MONIE POINT"
+global.bankname = "CHARLES"
+global.accnumber = "9153542786"
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true 
