@@ -3,7 +3,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2347057344983"
+global.pairingNumber = "2349153542786"
 
 
 
@@ -35,16 +35,16 @@ global.sessionName = "session"
 global.pairingCode = true 
 global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
 global.newsletterJid = "120363304326105871@newsletter"
-global.newsletterName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
-global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽"
-global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
-global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
+global.newsletterName = "MEDIC 𝐗 BOT"
+global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 BOT"
+global.ownerName = "MEDIC"
+global.syt = 'https://whatsapp.com/channel/0029VadPHYe0G0XlqPhDzl1R'
+global.sgc = 'https://whatsapp.com/channel/0029VadPHYe0G0XlqPhDzl1R'
+global.sig = 'https://whatsapp.com/channel/0029VadPHYe0G0XlqPhDzl1R'
+global.web = 'https://whatsapp.com/channel/0029VadPHYe0G0XlqPhDzl1R'
 //setbot
 global.botName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒" 
-global.wm = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
+global.wm = "MEDIC 𝐗 BOT"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
@@ -57,14 +57,14 @@ global.multi = false
 global.prefa = "!"
 global.Console = false
 global.autorespon = false
-global.copyright = `𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎`
+global.copyright = `MEDIC 𝐗 BOT`
 global.baileysVersion = `${themeemoji}Baileys ${version}`
 global.On = "On"
 global.Off ="Off"
 global.autoblockcmd = false
 global.fake1 ="Bot WhatsApp"
-global.packName = `𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎`
-global.authorName = "BLUE DEMON"
+global.packName = `MEDIC 𝐗 BOT`
+global.authorName = "MEDIC 𝐗 BOT"
 global.replyType = "web"
 global.setwelcome = "type1"
 global.autoblockcmd = false
